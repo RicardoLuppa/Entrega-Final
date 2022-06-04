@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cheesecake",
+        "precio" : 5000,
+        "tiempoPrep": 5,
+        "cantidad": 0,
+        "ingrPri": "Queso Crema"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Key Lime Pie",
+        "precio" : 6000,
+        "tiempoPrep": 5,
+        "cantidad": 0,
+        "ingrPri": "Lima"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Chocotorta",
+        "precio" : 4000,
+        "tiempoPrep": 3,
+        "cantidad": 0,
+        "ingrPri": "Chocolate"
+    },
+
+    {
+        "id": 4,
+        "nombre": "CarrotCake",
+        "precio" : 5000,
+        "tiempoPrep": 4,
+        "cantidad": 0,
+        "ingrPri": "Zanahoria"
+    }
+]
